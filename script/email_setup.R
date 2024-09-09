@@ -8,7 +8,6 @@ create_smtp_creds_file(
   use_ssl = TRUE
 )
 
-# creds_file('~/gmail_creds')
 
 test_message <- prepare_test_message()
 test_message %>% 
