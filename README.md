@@ -69,7 +69,7 @@ This project uses the `blastula` package to send email notifications when an upd
     )
     ```
   
-## 4. Scheduling with Cron
+### 4. Scheduling with Cron
 
 To ensure the program checks the website regularly, you can schedule it using cron jobs. Here’s how to do it on a Unix-like system:
 
