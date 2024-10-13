@@ -12,6 +12,8 @@ Currently the program is only used to check the HKSUT RPg housing application wa
 
 ## Set Up
 
+_Check [dont_panic_gha](https://github.com/JiaZhang42/dont_panic_gha) out if you don't like the complex setup._
+
 ### 1. Download this repo
 
 ### 2. Save your private information
